@@ -2,7 +2,7 @@
 
 This repository contains blowgraph, a graphing library that doesn't suck.
 
-Well, to be fair it doesn't do *anything* yet.
+Well, to be fair it doesn't do *anything* yet. But at least it doesn't suck, and that should count for something.
 
 Unfortunately, all popular graphing libraries for Python (matplotlib, pyqtgraph, and everything else) appear to suck beyond measure. You can make pretty pictures in them! Well yes, if you read the source code — because their documentation is atrocious. And once you start reading the source code, it becomes clear that the people who made these libraries just suck at design.
 
